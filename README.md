@@ -37,14 +37,14 @@ Main – orchestrates the app
 
 1. Clone the repository
 
-   ```bash 
+ ```bash 
    git clone https://github.com/yourusername/ChefClaude.git
    cd ChefClaude
-    ```
+ ```
 2. Install dependencies :
-   ```bash 
+```bash 
    npm install
-     ```
+```
 
 3.Add environment variables
    ```bash 
