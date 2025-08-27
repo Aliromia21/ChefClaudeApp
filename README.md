@@ -55,10 +55,10 @@ Main – orchestrates the app
 
    ```
 4. Run the app :
-   ```bash 
+```bash 
    
    npm run dev
-   ```
+  ```
 
 💡 How It Works
 
