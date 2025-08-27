@@ -5,9 +5,11 @@ It integrates with Hugging Face Inference API (Mistral/Mixtral) to generate reci
 
 
 ## Demo
+
+<img src="./ChefClaude/images/desc1.jpg" width="500" alt="Demo Screenshot" />
+<img src="./ChefClaude/images/desc2.jpg" width="500" alt="Demo Screenshot 2" />
  
-![App Start](./ChefClaude/images/desc1.jpg)
-![App Start](./ChefClaude/images/desc2.jpg)
+
 
 
 
