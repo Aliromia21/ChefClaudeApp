@@ -42,7 +42,7 @@ Main – orchestrates the app
      cd ChefClaude
     ```
 2. Install dependencies :
-      ```bash 
+   ```bash 
            npm install
      ```
 
