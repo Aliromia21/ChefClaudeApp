@@ -3,6 +3,13 @@
 ChefClaude is a fun React application that helps you discover recipes based on the ingredients you have at home.
 It integrates with Hugging Face Inference API (Mistral/Mixtral) to generate recipes in real-time, formatted in Markdown for easy display.
 
+
+## Demo
+ 
+<img src="./images/desc1.jpg" width="600" alt="App Screenshot" />
+
+
+
 🚀 Features
 
 Add ingredients dynamically via a simple input form
