@@ -60,7 +60,7 @@ Main – orchestrates the app
    npm run dev
   ```
 
-💡 How It Works
+💡 How It Works :
 
 Enter ingredients in the input field.
 
@@ -73,7 +73,9 @@ The model generates a creative recipe (Markdown formatted).
 The recipe is displayed beautifully in the UI.
 
 
-🛠️ Tech Stack
+
+
+🛠️ Tech Stack :
 
 Frontend: React (Vite or CRA)
 
