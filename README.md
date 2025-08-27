@@ -6,7 +6,7 @@ It integrates with Hugging Face Inference API (Mistral/Mixtral) to generate reci
 
 ## Demo
  
-![App Start](./images/desc1.jpg)
+![App Start](./ClaudeChef/images/desc1.jpg)
 
 
 
