@@ -77,7 +77,7 @@ The recipe is displayed beautifully in the UI.
 
 🛠️ Tech Stack :
 
-Frontend: React (Vite or CRA)
+Frontend: React ( Vite )
 
 AI Model: Hugging Face Inference API (Mixtral-8x7B-Instruct)
 
