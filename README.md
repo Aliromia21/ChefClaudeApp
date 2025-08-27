@@ -38,20 +38,20 @@ Main – orchestrates the app
 1. Clone the repository
 
    ```bash 
-      git clone https://github.com/yourusername/ChefClaude.git
-     cd ChefClaude
+   git clone https://github.com/yourusername/ChefClaude.git
+   cd ChefClaude
     ```
 2. Install dependencies :
    ```bash 
-           npm install
+   npm install
      ```
 
 3.Add environment variables
    ```bash 
 
-            Create a .env file in the root directory:
+   Create a .env file in the root directory:
 
-            HF_ACCESS_TOKEN=your_huggingface_token_here
+   HF_ACCESS_TOKEN=your_huggingface_token_here
 
    ```
 4. Run the app :
